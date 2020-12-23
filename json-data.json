@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Coffee Grinder",
+      "type": "Commercial",
+      "desc": "The upper chamber holds 40g of beans while the lower chamber holds between 30-50, depending on the grind size",
+      "price": 100,
+      "photo": "https://www.gefu.com/media/image/0c/06/0e/16331-gefu-kaffeemuehle-santiago-01_600x600.jpg"
+    },
+    {
+      "name": "Bella Coffee Maker",
+      "type": "Residential",
+      "desc": "Brew strength selector with Regular, Gourmet or Bold options delivers a high-quality, customized brew. 1-4 cup feature for 12 cup carafe taste when brewing small quantities",
+      "price": 200,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/716Z%2BJFxddL._SX425_.jpg"
+    },
+    {
+      "name": "Organic Coffee Beans",
+      "type": "Residential",
+      "desc": "To meet the variegated demands of the clients, our company is instrumental in offering an excellent quality range of Organic Coffee Beans.",
+      "price": 15,
+      "photo": "https://5.imimg.com/data5/XK/JC/MY-12108908/coffee-beans-750-to-850-kg-500x500.jpg"
+    }
+  ]
+}
